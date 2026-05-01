@@ -36,3 +36,11 @@ Thumbs.db
 .vscode/
 *.swp
 .env
+celery.log
+instance/
+migrations/
+package-lock.json
+dump.rdb
+db_backup.sql
+celery.log
+package.json
